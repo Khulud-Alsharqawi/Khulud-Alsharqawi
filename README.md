@@ -1,6 +1,9 @@
 <h1>  👋 Hi, I’m @Khulud-Alsharqawi </h1>
 
-:octocat: I’m  in tuwaiq academy learning Kotlin & I’m looking to work with Google  :sparkles:
+<h3>:octocat: I’m  in tuwaiq academy learning Kotlin & I’m looking to work with Google  :sparkles:</h3>
+
+  > # “You can get everything in life you want if you will just help enough other people get what they want.”
+![](https://github.com/Khulud-Alsharqawi/Khulud-Alsharqawi/blob/main/Google.png)
 
 
 <!---
