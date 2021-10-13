@@ -1,9 +1,17 @@
 <h1>  👋 Hi, I’m @Khulud-Alsharqawi </h1>
 
-<h3>:octocat: I’m  in tuwaiq academy learning Kotlin & I’m looking to work with Google  :sparkles:</h3>
+Education: 
+* 2016- Bachelor's degree in Computer Science 
+work as a teacher 
+* 2020- Master's in Information Security
+  [Publishing a scientific paper at the IEEE Conference ](https://ieeexplore.ieee.org/abstract/document/9213725)
 
-  > # “You can get everything in life you want if you will just help enough other people get what they want.”
-![](https://github.com/Khulud-Alsharqawi/Khulud-Alsharqawi/blob/main/Google.png)
+
+<h2> My new goal: to become an Android Developer :octocat:  </h2>
+
+  > #  Now.. I’m  in Tuwaiq Academy learning Kotlin & I’m looking to work with Google :two_hearts: :sparkles:
+![](https://c.tenor.com/AzNcQLTVjSEAAAAC/jujutsu-kaisen.gif)
+
 
 
 <!---
