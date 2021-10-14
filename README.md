@@ -1,10 +1,9 @@
 <h1>  👋 Hi, I’m @Khulud-Alsharqawi </h1>
 
 Education: 
-* 2016- Bachelor's degree in Computer Science 
-work as a teacher 
-* 2020- Master's in Information Security
-  [Publishing a scientific paper at the IEEE Conference ](https://ieeexplore.ieee.org/abstract/document/9213725)
+- 2013...2016 - Bachelor's degree in Computer Science .
+- 2017...2019 - work as a teacher.
+- 2019...2020 - Master's in Information Security - [Publishing a scientific paper at the IEEE Conference ](https://ieeexplore.ieee.org/abstract/document/9213725)
 
 
 <h2> My new goal: to become an Android Developer :octocat:  </h2>
