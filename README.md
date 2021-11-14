@@ -1,4 +1,4 @@
-<h1>  👋 Hi, I’m Khulud Alshrqawi </h1>
+<h1> Hi, I’m Khulud Alshrqawi </h1>
 currently learning kotlin in tuwaiq bootcamp   </h2>
 
 
