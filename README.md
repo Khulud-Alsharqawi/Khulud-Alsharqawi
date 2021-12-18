@@ -1,7 +1,9 @@
 <h1> Hi, I’m Khulud Alshrqawi </h1>
-currently learning kotlin in tuwaiq bootcamp   </h2>
+currently learning kotlin in tuwaiq bootcamp   
 
-
+<h2> My social Account :</h2>
+<h6> - Email: khloudsalehalshrqawi@gmail.com</h6>
+<h6> - LinkedIn: https://www.linkedin.com/in/khulud-alsharqawi</h6>
 
 
 <!---
