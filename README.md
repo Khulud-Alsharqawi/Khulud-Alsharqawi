@@ -1,5 +1,5 @@
 <h1> Hi, I’m Khulud Alshrqawi </h1>
-currently learning kotlin in tuwaiq bootcamp   
+Bachelor's degree in computer science, I'm currently learning android application development in tuwaiq bootcamp.
 
 <h2> My social Account :</h2>
 <h6> - Email: khloudsalehalshrqawi@gmail.com</h6>
